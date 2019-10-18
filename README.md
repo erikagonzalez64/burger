@@ -11,7 +11,7 @@ The most IMPORTANT thing is to download node.js onto your computer.
 > npm install express-handlebars
 
 ##### Next...
-> Open your browser to http://localhost:3000/
+> Open your browser to http://localhost: and the local host number varies, in this homework I used 3000
 
 If you see "App listening on PORT 3000" in your CLI, then you're good to go :smileyface:!
 
